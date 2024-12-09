@@ -67,7 +67,7 @@ public class Main {
         display(names, grades,avrege);
 
 
-        System.out.println("\n after sorting \n");
+        System.out.println("\n after sorting /1 \n");
 
         sorting(avrege,grades,names);
 

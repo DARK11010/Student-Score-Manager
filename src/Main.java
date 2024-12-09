@@ -133,10 +133,10 @@ public class Main {
             if (i == 0)
                 System.out.print("\nnames");
             else
-                System.out.print("    subject" + i);
+                System.out.print("       -subject" + i);
 
         }
-        System.out.print("    avarges");
+        System.out.print("       avarges");
 
 
         for (int i = 0; i < name.length; i++) {

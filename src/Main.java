@@ -136,7 +136,7 @@ public class Main {
                 System.out.print("    subject" + i);
 
         }
-        System.out.print("    avarge");
+        System.out.print("    avarges");
 
 
         for (int i = 0; i < name.length; i++) {
